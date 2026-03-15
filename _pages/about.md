@@ -107,17 +107,12 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 <!-- Content Section -->
 <p style="text-align: center;">
   <div id="clustrmaps-widget" style="max-width: 20%; margin: 0 auto;">
-    <script 
-      type="text/javascript" 
-      id="clustrmaps" 
-      src="//clustrmaps.com/map_v2.js?d=uTY2AY6y6-cxWrNfdFwh2S1zspQywC0Y_DfDGQVQclc&cl=ffffff&w=a" 
-      async>
-    </script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0S3TMKrN2RegovcRl8x3HE2GQ3da-y4zNyCPg28mx3k&cl=ffffff&w=a"></script>
     <noscript>
-      <a href="https://clustrmaps.com/site/1bj1k" title="Visitor Map">
+      <a href="https://clustrmaps.com/site/1c9gh" title="ClustrMaps">
         <img 
-          src="//clustrmaps.com/map_v2.png?d=uTY2AY6y6-cxWrNfdFwh2S1zspQywC0Y_DfDGQVQclc&cl=ffffff&w=a" 
-          alt="Visitor Map" 
+          src="//www.clustrmaps.com/map_v2.png?d=0S3TMKrN2RegovcRl8x3HE2GQ3da-y4zNyCPg28mx3k&cl=ffffff" 
+          alt="ClustrMaps" 
           style="max-width: 20%; height: auto;">
       </a>
     </noscript>
