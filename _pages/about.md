@@ -23,13 +23,14 @@ redirect_from:
 His research focuses on addressing environmental challenges through advanced sensing technologies and information science. By integrating multi-source data acquisition with artificial intelligence and computational methods, his work aims to enhance environmental monitoring and analysis.  
 
 He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned systems, and satellite remote sensing imagery to interpret and analyze environmental systems across marine, underwater, agricultural, and urban environments. His research seeks to improve monitoring efficiency, reduce operational costs, increase analytical accuracy, and reveal previously unobservable environmental information through data-driven approaches.  
+<br>
 
 # 🔥 News
 - *2026.02.10*:  🎉🎉 One **first-author** paper on UAV-based monitoring of benthic organisms in the coastal lagoon of Lake Hamana, Japan, has been accepted by ***Remote Sensing in Ecology and Conservation***. (<a href="[https://www.sciencedirect.com/science/article/pii/S0924271626000559](http://doi.org/10.1002/rse2.70066)" target="_blank">link</a>)  
 - *2026.02.09*: &nbsp;🎉🎉 One **first-author** paper on a self-developed amphibious UAV and its practical applications in inland rivers, lakes, and marine environments has been accepted by ***Marine Environmental Research***. (<a href="https://doi.org/10.1016/j.marenvres.2026.107911" target="_blank">link</a>)  
 - *2026.02.04*: &nbsp;🎉🎉 Our paper on efficient and robust floating plastic debris monitoring has been accepted by ***Expert Systems with Applications***. (<a href="https://doi.org/10.1016/j.eswa.2026.131552" target="_blank">link</a>)  
 - *2025.11.25*: &nbsp;🎉🎉 One co-authored paper on coral condition assessment and *Drupella* sp. identification using point cloud semantic segmentation has been published in ***Marine Pollution Bulletin***. (<a href="https://doi.org/10.1016/j.marpolbul.2025.119072" target="_blank">link</a>)  
-
+<br>
 
 # 📜 Publications 
 <div class='paper-box'>
