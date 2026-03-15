@@ -60,28 +60,20 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badges">
-      <div class="badge conference-badge">ESSD 2025</div>
-      <div class="badge spotlight-badge">IEEE GRSS Data Fusion Contest 2025</div>
+      <div class="badge conference-badge">MER 2026</div>
     </div>
-    <img src='images/overall.jpg' alt="sym" width="100%">
+    <img src='images/GA_MER_Tool26.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-  [Bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html)
+  [Cost-Effective Ecological Monitoring in Shallow Waters Using Amphibious Unmanned Aerial Vehicles (AUAV) and Deep Learning-Based Computer Vision](https://doi.org/10.1016/j.marenvres.2026.107911)
 
-  Hongruixuan Chen, **Jian Song**, Olivier Dietrich, Clifford Broni-Bediako, Weihao Xuan, Junjue Wang, Xinlei Shao, Yimin Wei, Junshi Xia, Cuiling Lan, Konrad Schindler, Naoto Yokoya
+  ***Zhao, F.****, Wang, J., Chen, Y., Shao, X., Liu, Y., Chen, Y., Xue F., Sasaki, J., Mizuno, K.
 
-  <em>Earth System Science Data (ESSD), 2025.</em> 
-  <span style="color: #ff4500; font-weight: bold;">*IEEE GRSS Data Fusion Contest 2025 Official Dataset* </span>
+  <em>Marine Environmental Research，2026.</em> 
 
   <div class="paper-links">
-    <a class="paper-link" href="https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html1" title="Paper">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_MER_Tool26.pdf" title="Paper">
       <i class="fas fa-file-pdf"></i> Paper
-    </a>
-    <a class="paper-link" href="https://github.com/ChenHongruixuan/BRIGHT" title="Code">
-      <i class="fas fa-file-code"></i> Code
-    </a>
-    <a class="paper-link" href="https://github.com/ChenHongruixuan/BRIGHT" title="Data">
-      <i class="fas fa-database"></i> Data
     </a>
   </div>
   </div>
