@@ -83,108 +83,25 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badges">
-      <div class="badge conference-badge">NeurIPS 2024</div>
-      <div class="badge spotlight-badge">Spotlight</div>
+      <div class="badge conference-badge">ESWA 2026</div>
     </div>
-    <img src='images/SynRS3D.png' alt="sym" width="100%">
+    <img src='images/GA_ESWA_FP26-1.png' alt="sym" width="100%">
+    <img src='images/GA_ESWA_FP26-2.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-  [SynRS3D: A Synthetic Dataset for Global 3D Semantic Understanding from Monocular Remote Sensing Imagery](https://arxiv.org/abs/2406.18151)
+  [Water-Aware Real-Time Detection of Floating Plastic Debris via an Enhanced YOLOv13 Framework for Aquatic Pollution Monitoring](https://doi.org/10.1016/j.eswa.2026.131552)
 
-  **Jian Song**, Hongruixuan Chen, Weihao Xuan, Junshi Xia, Naoto Yokoya
+  Liu, Z., Wang, J., Wu, H., Xue, F., Qin, Z., Sun, S., Guo, X., ***Zhao, F.****
 
-  In <em>Proc. 38th Annual Conference on Neural Information Processing Systems (Datasets and Benchmarks Track), 2024.</em> 
-  <span style="color: #ff4500; font-weight: bold;">*Spotlight Paper* [top 3.08%]</span>
+  <em>Expert Systems with Applications，2026.</em> 
 
   <div class="paper-links">
-    <a class="paper-link" href="https://jtrneo.github.io/SynRS3D/" title="Project Page">
-      <i class="fas fa-home"></i> Project Page
-    </a>
-    <a class="paper-link" href="https://arxiv.org/abs/2406.18151" title="Paper">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_ESWA_FP26.pdf" title="Paper">
       <i class="fas fa-file-pdf"></i> Paper
-    </a>
-    <a class="paper-link" href="https://github.com/JTRNEO/SynRS3D" title="Code">
-      <i class="fas fa-file-code"></i> Code
-    </a>
-    <a class="paper-link" href="https://zenodo.org/records/13905264" title="Data">
-      <i class="fas fa-database"></i> Data
     </a>
   </div>
   </div>
 </div>
-
-
-<!-- Journal Articles -->
-- [Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), C. Broni-Bediako, J. Xia, **J. Song**, H. Chen, M. Siam, N. Yokoya, ***IEEE GRSL 2024***
-
-- [ObjFormer: Learning Land-Cover Changes From Paired OSM Data and Optical High-Resolution Imagery via Object-Guided Transformer](https://ieeexplore.ieee.org/document/10551264), H. Chen, C. Lan, **J. Song**, C. Broni-Bediako, J. Xia, N. Yokoya, ***IEEE TGRS 2024***
-
-- [Deep Learning for Multi-Label Classification of Coral Conditions in the Indo-Pacific via Underwater Photogrammetry](https://onlinelibrary.wiley.com/doi/10.1002/aqc.4241), X. Shao, H. Chen, K. Magson, J. Wang, **J. Song**, J. Chen, J. Sasaki, ***Aquatic Conservation 2024***
-
-<!-- Conference Papers -->
-- [OpenEarthMap Benchmark Suite and Its Applications](https://ieeexplore.ieee.org/abstract/document/10640801), N. Yokoya, J. Xia, C. Broni-Bediako, **J. Song**, H. Chen, ***IGARSS 2024*** (Oral Presentation)
-
-- [Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)](https://ieeexplore.ieee.org/document/10642789), H. Chen, **J. Song**, N. Yokoya, ***IGARSS 2024*** (Oral Presentation)
-
-- [Disaster Detection from SAR Images with Different Off-Nadir Angles Using Unsupervised Image Translation](https://ceur-ws.org/Vol-3207/paper3.pdf), **J. Song**, B. Adriano, N. Yokoya, ***CDCEO Workshop at IJCAI 2022***
-
-
-<!-- Education Section
-<h2>🎓 Education</h2>
-<ul>
-  <li>
-    <strong>The University of Tokyo, Chiba, Japan</strong>  
-    <br><em>Oct. 2021 – Present</em>  
-    Ph.D. Candidate in Engineering (Major: Complexity Science and Engineering)  
-    <br>Research Topic: Synthetic data-driven 3D semantic reconstruction in remote sensing
-  </li>
-  <li>
-    <strong>Waseda University, Fukuoka, Japan</strong>  
-    <br><em>Oct. 2019 – Mar. 2021</em>  
-    Master of Engineering (Major: Information Engineering)  
-    <br>Research Topic: Flow-guided video object detection
-  </li>
-  <li>
-    <strong>Wuhan University, Wuhan, China</strong>  
-    <br><em>Sep. 2018 – Jun. 2021</em>  
-    Master of Engineering (Major: Software Engineering)  
-    <br>Research Topic: Remote sensing image semantic segmentation
-  </li>
-  <li>
-    <strong>Fujian Agriculture and Forestry University, Fuzhou, China</strong>  
-    <br><em>Sep. 2011 – Jun. 2015</em>  
-    Bachelor of Agriculture (Major: Forestry Information Engineering)
-  </li>
-</ul> -->
-
-<!-- Employment History
-<h2>💼 Employment History</h2>
-<ul>
-  <li>
-    <strong>The University of Tokyo, Tokyo, Japan</strong>  
-    <br><em>Oct. 2021 – May 2024</em>  
-    Research Assistant  
-    <br>Supervisor: Prof. Naoto Yokoya
-  </li>
-  <li>
-    <strong>RIKEN AIP, Tokyo, Japan</strong>  
-    <br><em>Apr. 2021 – Present</em>  
-    Research Part-timer  
-    <br>Supervisor: Prof. Naoto Yokoya
-  </li>
-  <li>
-    <strong>Inception Institute of Artificial Intelligence, Abu Dhabi, UAE</strong>  
-    <br><em>Mar. 2019 – Aug. 2019</em>  
-    Research Intern  
-    <br>Supervisor: Dr. Fan Zhu
-  </li>
-  <li>
-    <strong>Land Satellite Remote Sensing Application Center, Beijing, China</strong>  
-    <br><em>May 2018 – Sep. 2018</em>  
-    Research Intern  
-    <br>Supervisor: Dr. Yuhang Gan
-  </li>
-</ul> -->
 
 
 <!-- Content Section -->
