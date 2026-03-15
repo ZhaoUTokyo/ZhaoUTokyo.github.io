@@ -267,36 +267,6 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   </li>
 </ul> -->
 
-<!-- Honors and Awards -->
-# 🎖 Fundings and Awards
-<ul>
-<li><em>Mar. 2025</em> RIKEN BAIHO Award — Awarded for “Development of remote sensing image synthesis technology”</li>
-  <li><em>Dec. 2023</em> AY2024 AI Center Fusion Research Promotion Fund (1,600,000 JPY)</li>
-  <li><em>Jul. 2024</em> SPRING GX Self-directed and Integrated Project Research (250,000 JPY)</li>
-  <li><em>Apr. 2024</em> SPRING GX Fellowship (180,000 JPY per month)</li>
-  <li><em>Dec. 2023</em> AY2023 AI Center Fusion Research Promotion Fund (2,000,000 JPY)</li>
-  <li><em>Mar. 2023</em> AY2023 GSFS Challenging New Area Doctoral Research Grant (GSFS Challenge Fund) (600,000 JPY)</li>
-  <li><em>Feb. 2020</em> AY2020 JEES–SoftBank AI Scholarship (1,000,000 JPY)</li>
-  <li><em>Sep. 2019</em> Kitakyushu Science and Research Park Scholarship (300,000 JPY)</li>
-</ul>
-
-<!-- Academic Services -->
-# 🛠 Academic Services
-<ul>
-  <li>Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
-  <li>Reviewer: IEEE Transactions on Image Processing (TIP)</li>
-  <li>Reviewer: NeurIPS 2025 (Conference on Neural Information Processing Systems)</li>
-  <li>Reviewer: IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
-  <li>Reviewer: ISPRS Journal of Photogrammetry and Remote Sensing</li>
-  <li>Reviewer: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</li>
-  <li>Reviewer: IEEE Access</li>
-  <li>Co-organizer: IEEE GRSS Data Fusion Contest 2025 
-    <a href="https://www.grss-ieee.org/community/technical-committees/2025-ieee-grss-data-fusion-contest/" target="_blank">[Link]</a>
-  </li>
-  <li>Co-organizer: OpenEarthMap Land Cover Mapping Few-Shot Challenge at L3D-IVU CVPR 2024 Workshop 
-    <a href="https://cliffbb.github.io/OEM-Fewshot-Challenge/" target="_blank">[Link]</a>
-  </li>
-</ul>
 
 <!-- Content Section -->
 <p style="text-align: center;">
@@ -317,7 +287,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
     </noscript>
   </div>
   <p style="text-align:center;">
-    &copy; Jian Song | Last updated: Dec 8, 2025
+    &copy; Fan ZHAO | Last updated: March 2025
   </p>     
 </p>
 
