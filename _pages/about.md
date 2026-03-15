@@ -85,8 +85,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
     <div class="badges">
       <div class="badge conference-badge">ESWA 2026</div>
     </div>
-    <img src='images/GA_ESWA_FP26-1.png' alt="sym" width="100%">
-    <img src='images/GA_ESWA_FP26-2.png' alt="sym" width="100%">
+    <img src='images/GA_ESWA_FP26-1-2.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   [Water-Aware Real-Time Detection of Floating Plastic Debris via an Enhanced YOLOv13 Framework for Aquatic Pollution Monitoring](https://doi.org/10.1016/j.eswa.2026.131552)
@@ -104,6 +103,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 </div>
 
 
+<br>
 <!-- Content Section -->
 <p style="text-align: center;">
   <div id="clustrmaps-widget" style="max-width: 20%; margin: 0 auto;">
