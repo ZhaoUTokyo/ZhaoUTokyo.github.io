@@ -39,17 +39,17 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
     <div class="badges">
       <div class="badge conference-badge">RSEC 2026</div>
     </div>
-    <img src='images/isprs2026.png' alt="sym" width="100%">
+    <img src='images/GA_RSEC_crabs26.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-  [Deep learning‐based super‐resolution reconstruction and improved YOLOv9 for efficient benthos detection: a case study at Lake Hamana, Japan]([https://www.sciencedirect.com/science/article/pii/S0924271625004885?dgcid=coauthor](http://doi.org/10.1002/rse2.70066))
+  [Deep learning‐based super‐resolution reconstruction and improved YOLOv9 for efficient benthos detection: a case study at Lake Hamana, Japan](http://doi.org/10.1002/rse2.70066)
 
   ***Zhao, F.****, Ma, B., Xi, D., Wang, J., Chen, Y., Liu, Y., Shao, X., Zhang, M., Zhang, G., Chen, J. & Mizuno, K.
 
   <em>Remote Sensing in Ecology and Conservation，2026.</em> 
 
   <div class="paper-links">
-    <a class="paper-link" href="https://www.sciencedirect.com/science/article/pii/S0924271625004885?dgcid=coauthor" title="Paper">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_RSEC_crabs26.pdf" title="Paper">
       <i class="fas fa-file-pdf"></i> Paper
     </a>
   </div>
@@ -87,6 +87,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   </div>
 </div>
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badges">
@@ -120,82 +121,6 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badges">
-      <div class="badge conference-badge">TGRS 2024</div>
-      <div class="badge spotlight-badge">ESI Hot Paper / ESI Highly Cited Paper</div>
-    </div>
-    <img src='images/ChangeMamba.png' alt="sym" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](https://ieeexplore.ieee.org/document/10565926)
-
-  Hongruixuan Chen<span>*</span>, <strong>Jian Song<span>*</span></strong>, Chengxi Han, Junshi Xia, Naoto Yokoya
-
-  <em>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024.</em> 
-  <span style="color: #ff4500; font-weight: bold;">*ESI Hot Paper / ESI Highly Cited Paper*</span>
-
-  <div class="paper-links">
-    <a class="paper-link" href="https://ieeexplore.ieee.org/document/10565926" title="Paper">
-      <i class="fas fa-file-pdf"></i> Paper
-    </a>
-    <a class="paper-link" href="https://github.com/ChenHongruixuan/MambaCD" title="Code">
-      <i class="fas fa-file-code"></i> Code
-    </a>
-  </div>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badges">
-      <div class="badge conference-badge">WACV 2024</div>
-    </div>
-    <img src='images/SyntheWorld.png' alt="sym" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection](https://openaccess.thecvf.com/content/WACV2024/html/Song_SyntheWorld_A_Large-Scale_Synthetic_Dataset_for_Land_Cover_Mapping_and_WACV_2024_paper.html)
-
-  **Jian Song**, Hongruixuan Chen, Naoto Yokoya
-
-  In <em>Proc. IEEE/CVF Winter Conference on Applications of Computer Vision, 2024.</em> 
-
-  <div class="paper-links">
-    <a class="paper-link" href="https://openaccess.thecvf.com/content/WACV2024/html/Song_SyntheWorld_A_Large-Scale_Synthetic_Dataset_for_Land_Cover_Mapping_and_WACV_2024_paper.html" title="Paper">
-      <i class="fas fa-file-pdf"></i> Paper
-    </a>
-    <a class="paper-link" href="https://github.com/JTRNEO/SyntheWorld" title="Data">
-      <i class="fas fa-database"></i> Data
-    </a>
-  </div>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badges">
-      <div class="badge conference-badge">ISPRS 2024</div>
-    </div>
-    <img src='images/exchange.png' alt="sym" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [Exchange Means Change: An Unsupervised Single-Temporal Change Detection Framework Based on Intra- and Inter-Image Patch Exchange](https://www.sciencedirect.com/science/article/abs/pii/S092427162300309X)
-
-  Hongruixuan Chen, **Jian Song**, Chen Wu, Bo Du, Naoto Yokoya
-
-  <em>ISPRS Journal of Photogrammetry and Remote Sensing, 2023.</em> 
-
-  <div class="paper-links">
-    <a class="paper-link" href="https://www.sciencedirect.com/science/article/abs/pii/S092427162300309X" title="Paper">
-      <i class="fas fa-file-pdf"></i> Paper
-    </a>
-    <a class="paper-link" href="https://github.com/ChenHongruixuan/I3PE" title="Code">
-      <i class="fas fa-file-code"></i> Code
-    </a>
-  </div>
-  </div>
-</div>
 
 <!-- Journal Articles -->
 - [Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), C. Broni-Bediako, J. Xia, **J. Song**, H. Chen, M. Siam, N. Yokoya, ***IEEE GRSL 2024***
