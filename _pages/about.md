@@ -123,7 +123,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
     </noscript>
   </div>
   <p style="text-align:center;">
-    &copy; Fan ZHAO | Last updated: March 2025
+    &copy; Fan ZHAO | Last updated: March 2026
   </p>     
 </p>
 
