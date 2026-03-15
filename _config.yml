@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jian Song"
-description              : "Remote Sensing, 3D Vision."
-repository               : "JTRNEO/JTRNEO.github.io"
+title                    : "Fan ZHAO"
+description              : ""
+repository               : "ZhaoUTokyo/ZhaoUTokyo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jian Song"
-  avatar           : "images/profile-android-chrome-512x512.png"
-  bio              : "Postdoctoral Researcher, RIKEN AIP"
+  name             : "Fan ZHAO"
+  avatar           : "images/profile.jpg"
+  bio              : "Postdoctoral Researcher"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=fx-27bQAAAAJ&hl=zh-CN&oi=ao"
-  email            : "songjianjp@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Song-60"
+  googlescholar    : "https://scholar.google.com/citations?user=snC9sccAAAAJ&hl=zh-CN"
+  email            : "zhaofan25ut@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Fan-Zhao-32"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JTRNEO"
+  github           : "ZhaoUTokyo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jian-song-a674102b3"
+  linkedin         : #"jian-song-a674102b3"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0001-5577-8595"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-8494-3838"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
