@@ -32,20 +32,21 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 - *2025.11.25*: &nbsp;🎉🎉 One co-authored paper on coral condition assessment and *Drupella* sp. identification using point cloud semantic segmentation has been published in ***Marine Pollution Bulletin***. (<a href="https://doi.org/10.1016/j.marpolbul.2025.119072" target="_blank">link</a>)  
 <br>
 
+
 # 📜 Publications 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badges">
-      <div class="badge conference-badge">ISPRS 2026</div>
+      <div class="badge conference-badge">RSEC 2026</div>
     </div>
     <img src='images/isprs2026.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-  [Enhancing monocular height estimation via sparse LiDAR-guided correction](https://www.sciencedirect.com/science/article/pii/S0924271625004885?dgcid=coauthor)
+  [Deep learning‐based super‐resolution reconstruction and improved YOLOv9 for efficient benthos detection: a case study at Lake Hamana, Japan]([https://www.sciencedirect.com/science/article/pii/S0924271625004885?dgcid=coauthor](http://doi.org/10.1002/rse2.70066))
 
-  **Jian Song**, Hongruixuan Chen, Naoto Yokoya
+  ***Zhao, F.****, Ma, B., Xi, D., Wang, J., Chen, Y., Liu, Y., Shao, X., Zhang, M., Zhang, G., Chen, J. & Mizuno, K.
 
-  <em>ISPRS Journal of Photogrammetry and Remote Sensing, 2026.</em> 
+  <em>Remote Sensing in Ecology and Conservation，2026.</em> 
 
   <div class="paper-links">
     <a class="paper-link" href="https://www.sciencedirect.com/science/article/pii/S0924271625004885?dgcid=coauthor" title="Paper">
@@ -54,6 +55,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   </div>
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
