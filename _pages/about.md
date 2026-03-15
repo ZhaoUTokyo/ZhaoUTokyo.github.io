@@ -17,27 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 📌 Short Bio (<a href="CV/songjian.pdf">**CV**)
-**Jian Song** is a Postdoctoral Researcher at the [Geoinformatics Team](https://geoinformatics2018.com/), [RIKEN AIP](https://aip.riken.jp/), advised by [Prof. Naoto Yokoya](https://naotoyokoya.com/).  
-He received his Ph.D. from the [Machine Learning and Statistical Data Analysis Lab](https://www.ms.k.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) in June 2025.
+# 📌 Short Bio (<a href="CV/FanZHAO_CV.pdf">**CV**)
+**Dr. Fan Zhao** is a Postdoctoral Researcher at the Department of Urban Informatics, Shenzhen University, where he collaborates with the research group of Prof. Qingquan Li, an Academician of the Chinese Academy of Engineering. He received his Ph.D. and M.E.S. from the Environmental Informatics and Sensing Laboratory at the University of Tokyo in March 2025 and March 2022, respectively.  
 
-His research centers on creating and utilizing high-fidelity synthetic 3D environments to address real-world remote sensing challenges.  
-By combining advanced scene generation and transfer learning techniques, he aims to unlock scalable global 3D understanding for applications in urban planning, environmental monitoring, and beyond.
+His research focuses on addressing environmental challenges through advanced sensing technologies and information science. By integrating multi-source data acquisition with artificial intelligence and computational methods, his work aims to enhance environmental monitoring and analysis.  
 
-He is a big fan of Dota2 and Mahjong.
+He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned systems, and satellite remote sensing imagery to interpret and analyze environmental systems across marine, underwater, agricultural, and urban environments. His research seeks to improve monitoring efficiency, reduce operational costs, increase analytical accuracy, and reveal previously unobservable environmental information through data-driven approaches.  
 
 # 🔥 News
-- *2026.02*:  🎉🎉 One co-author paper on multimodal remote sensing change detection has been published <b>ISPRS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271626000559" target="_blank">link</a>)! 
-- *2025.12*: &nbsp;🎉🎉 One paper on sparse ICESat-2–guided calibration for monocular height estimation has been accepted by <b>ISPRS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271625004885?dgcid=coauthor" target="_blank">link</a>)! 
-- *2025.11*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>ESSD</b> (<a href="https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html" target="_blank">link</a>)! 
-- *2025.09*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>NeurIPS 2025</b> (<a href="https://arxiv.org/abs/2505.21089" target="_blank">link</a>)!  
-- *2025.08*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>IEEE GRSM</b> (<a href="https://arxiv.org/abs/2501.10891" target="_blank">link</a>)!
-- *2025.06*: &nbsp;🎓 Jian Song received his Ph.D. degree from <b>The University of Tokyo</b> (advised by <a href="https://naotoyokoya.com/" target="_blank">Prof. Naoto Yokoya</a>).
-- *2025.03*: &nbsp;🏆 Received the <b>RIKEN BAIHO Award</b> for “Development of remote sensing image synthesis technology” (<a href="https://aip.riken.jp/news/2024baihouaward/" target="_blank">link</a>).
-- *2024.11*: &nbsp;🎉🎉 ChangeMamba has been selected as <b>ESI Hot Paper and Highly Cited Paper</b>! 
-- *2024.11*: &nbsp;🎉🎉 Our paper in generalized few-shot semantic segmentation has been accepted by <b>IEEE GRSL</b> (<a href="https://ieeexplore.ieee.org/document/10741284/" target="_blank">link</a>)!
-- *2024.10*: &nbsp;🎉🎉 One paper in 3D semantic understanding using monocular EO data has been accepted by <b>NeurIPS 2024 Spotlight</b> (<a href="https://jtrneo.github.io/SynRS3D/" target="_blank">link</a>)! 
-- *2024.06*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>IEEE TGRS</b> (<a href="https://ieeexplore.ieee.org/document/10565926" target="_blank">link</a>)!
+- *2026.02.10*:  🎉🎉 One **first-author** paper on UAV-based monitoring of benthic organisms in the coastal lagoon of Lake Hamana, Japan, has been accepted by ***Remote Sensing in Ecology and Conservation***. (<a href="[https://www.sciencedirect.com/science/article/pii/S0924271626000559](http://doi.org/10.1002/rse2.70066)" target="_blank">link</a>)  
+- *2026.02.09*: &nbsp;🎉🎉 One **first-author** paper on a self-developed amphibious UAV and its practical applications in inland rivers, lakes, and marine environments has been accepted by ***Marine Environmental Research***. (<a href="https://doi.org/10.1016/j.marenvres.2026.107911" target="_blank">link</a>)  
+- *2026.02.04*: &nbsp;🎉🎉 Our paper on efficient and robust floating plastic debris monitoring has been accepted by ***Expert Systems with Applications***. (<a href="https://doi.org/10.1016/j.eswa.2026.131552" target="_blank">link</a>)  
+- *2025.11.25*: &nbsp;🎉🎉 One co-authored paper on coral condition assessment and *Drupella* sp. identification using point cloud semantic segmentation has been published in ***Marine Pollution Bulletin***. (<a href="https://doi.org/10.1016/j.marpolbul.2025.119072" target="_blank">link</a>)  
+
 
 # 📜 Publications 
 <div class='paper-box'>
