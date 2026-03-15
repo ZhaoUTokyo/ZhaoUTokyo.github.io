@@ -44,7 +44,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   <div class='paper-box-text' markdown="1">
   [Deep learning‐based super‐resolution reconstruction and improved YOLOv9 for efficient benthos detection: a case study at Lake Hamana, Japan](http://doi.org/10.1002/rse2.70066)
 
-  <u>**Zhao, F.***</u>, Ma, B., Xi, D., ... & Mizuno, K.
+  **<u>Zhao, F.</u>***, Ma, B., Xi, D., ... & Mizuno, K.
 
   <em>Remote Sensing in Ecology and Conservation，2026.</em> 
 
@@ -67,7 +67,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   <div class='paper-box-text' markdown="1">
   [Cost-Effective Ecological Monitoring in Shallow Waters Using Amphibious Unmanned Aerial Vehicles (AUAV) and Deep Learning-Based Computer Vision](https://doi.org/10.1016/j.marenvres.2026.107911)
 
-  <u>**Zhao, F.***</u>, Wang, J., Chen, Y., ... & Mizuno, K.
+  **<u>Zhao, F.</u>***, Wang, J., Chen, Y., ... & Mizuno, K.
 
   <em>Marine Environmental Research，2026.</em> 
 
@@ -90,7 +90,7 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   <div class='paper-box-text' markdown="1">
   [Water-Aware Real-Time Detection of Floating Plastic Debris via an Enhanced YOLOv13 Framework for Aquatic Pollution Monitoring](https://doi.org/10.1016/j.eswa.2026.131552)
 
-  Liu, Z., Wang, J., Wu, H., ... <u>**Zhao, F.***</u>
+  Liu, Z., Wang, J., Wu, H., ... **<u>Zhao, F.</u>***
 
   <em>Expert Systems with Applications，2026.</em> 
 
