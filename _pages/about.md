@@ -186,6 +186,33 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">RS 2025B</div>
+    </div>
+    <img src='images/GA_RS_UDD25.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Diffusion-Enhanced Underwater Debris Detection via Improved YOLOv12n Framework](https://doi.org/10.3390/rs17233910)
+
+  Tao, J., **<u>Zhao, F.</u>***, Chen, Y., ... & Xu, N.
+
+  <em>Remote Sensing，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_RS_UDD25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://www.kaggle.com/datasets/arnavs19/underwater-plastic-pollution-detection/data" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
+
 <br>
 <!-- Content Section -->
 <p style="text-align: center;">
