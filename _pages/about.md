@@ -163,6 +163,28 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">RSE 2026</div>
+    </div>
+    <img src='images/GA_RSE_tidal26tidal.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [A large-scale framework for deriving tidal flat topography from SWOT data](https://doi.org/10.1016/j.rse.2026.115237)
+
+  Xu, H., …, **<u>Zhao, F.</u>**, …,& Li, Q.
+
+  <em>Remote Sensing of Environment，2026.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_RSE_tidal26tidal.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+  </div>
+  </div>
+</div>
+
 
 <br>
 <!-- Content Section -->
