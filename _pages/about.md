@@ -238,6 +238,34 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">MER 2025B</div>
+    </div>
+    <img src='images/paper_MER_SEA26.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [A novel underwater Holothurians monitoring system using consumer-grade amphibious UAV with Mamba-based Super-Resolution Reconstruction and enhanced YOLOv10](https://doi.org/10.1016/j.marenvres.2025.107510)
+
+  **<u>Zhao, F.</u>***, Shao, X., Wang, J., … , & Mizuno, K.
+
+  <em>Marine Environmental Research，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_MER_SEA26.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://pan.baidu.com/s/1Yf8cnMp1xZqQ0AZwveTEZQ" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
+
+
 <br>
 <!-- Content Section -->
 <p style="text-align: center;">
