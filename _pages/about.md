@@ -212,6 +212,31 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">Sensors 2025</div>
+    </div>
+    <img src='images/GA_Senso_weeds25.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Deep Learning-Driven Automatic Segmentation of Weeds and Crops in UAV Imagery](https://doi.org/10.3390/s25216576)
+
+  Tao, J., Qiao, Q., Song, J., ... & **<u>Zhao, F.</u>***.
+
+  <em>Sensors，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_Senso_weeds25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://github.com/ZhaoUTokyo/CropWeed-Seg-2025.git" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
 
 <br>
 <!-- Content Section -->
