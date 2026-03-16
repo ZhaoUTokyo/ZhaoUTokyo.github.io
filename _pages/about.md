@@ -137,6 +137,32 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">MPB 2026B</div>
+    </div>
+    <img src='images/GA_MPB_coral26.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Multi-label classification for multi-temporal, multi-spatial coral reef condition monitoring using vision foundation model with adapter learning](https://doi.org/10.1016/j.marpolbul.2025.119054)
+
+  Shao, X., Chen, H., **<u>Zhao, F.</u>**, Magson, K., Chen, J., Li, P., Wang, J., & Mizuno, K.
+
+  <em>Marine Pollution Bulletin，2026.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_MPB_coral26.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://github.com/XL-SHAO/DINOv2-LoRA-coral-condition" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
 
 <br>
 <!-- Content Section -->
