@@ -264,6 +264,54 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">EcoInfo 2025</div>
+    </div>
+    <img src='images/GA_EcoInf_mussel25.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Mamba-based super-resolution and semi-supervised YOLOv10 for freshwater mussel detection using acoustic video camera: A case study at Lake Izunuma, Japan](https://doi.org/10.1016/j.ecoinf.2025.103324)
+
+  **<u>Zhao, F.</u>***, Xu, D., Ren, Z., … , & Mizuno, K.
+
+  <em>Ecological Informatics，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_EcoInf_mussel25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://github.com/EISLAB2021/2025musselProject.git" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">RS 2025A</div>
+    </div>
+    <img src='images/GA_RS_Succulent25.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Succulent-YOLO: Smart UAV-Assisted Succulent Farmland Monitoring with CLIP-Based YOLOv10 and Mamba Computer Vision](https://doi.org/10.3390/rs17132219)
+
+  Li, H., **<u>Zhao, F.</u>***, Xue, F., ... & Kobayashi, H.H
+
+  <em>Remote Sensing，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_RS_Succulent25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+  </div>
+  </div>
+</div>
+
 
 
 <br>
