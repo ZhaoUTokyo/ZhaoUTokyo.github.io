@@ -109,6 +109,34 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   </div>
 </div>
 
+<!-- 315 added eight -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">MPB 2026A</div>
+    </div>
+    <img src='images/GA_MPB_Drupella26.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Multi-scale approach for coral condition assessment and Drupella sp. identification using a versatile low-cost camera system and point cloud semantic segmentation](https://doi.org/10.1016/j.marpolbul.2025.119072)
+
+  Wang, J., Shao, X., Ma, B., **<u>Zhao, F.</u>**, Magson, K., Sasaki, J., & Mizuno, K.
+
+  <em>Marine Pollution Bulletin，2026.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_MPB_Drupella26.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://doi.org/10.5281/zenodo.14249838" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
 
 <br>
 <!-- Content Section -->
