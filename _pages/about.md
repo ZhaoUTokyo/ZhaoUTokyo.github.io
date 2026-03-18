@@ -346,6 +346,135 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">PA 2025</div>
+    </div>
+    <img src='images/GA_PA_bluebr25.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Smart UAV-assisted blueberry maturity monitoring with Mamba-based computer vision](https://doi.org/10.1007/s11119-025-10252-2)
+
+  **<u>Zhao, F.</u>***, He, Y., Song, J., … , & Mizuno, K.
+
+  <em>Precision Agriculture，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_PA_bluebr25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">MPB 2025</div>
+    </div>
+    <img src='images/GA_MPB_SFD25.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Seafloor debris detection using underwater images and deep learning-driven image restoration: A case study from Koh Tao, Thailand](https://doi.org/10.1016/j.marpolbul.2025.117710)
+
+  **<u>Zhao, F.</u>***, Huang, B., Wang, J., … , & Mizuno, K.
+
+  <em>Marine Pollution Bulletin，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_MPB_SFD25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://doi.org/10.5281/zenodo.14866178" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">SAT 2025</div>
+    </div>
+    <img src='images/GA_SAT_rose25.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Smart UAV-assisted rose growth monitoring with improved YOLOv10 and Mamba restoration techniques](https://doi.org/10.1016/j.atech.2024.100730)
+
+  **<u>Zhao, F.</u>***, Ren, Z., Wang, J., … , & Mizuno, K.
+
+  <em>Smart Agricultural Technology，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_SAT_rose25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">MPB 2024</div>
+    </div>
+    <img src='images/GA_MPB_RBL24.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Riverbed litter monitoring using consumer-grade aerial-aquatic speedy scanner (AASS) and deep learning based super-resolution reconstruction and detection network](https://doi.org/10.1016/j.marpolbul.2024.117030)
+
+  **<u>Zhao, F.</u>***, Liu, Y., Wang, J., … , & Mizuno, K.
+
+  <em>Marine Pollution Bulletin，2024.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_MPB_RBL25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">AQC 2023</div>
+    </div>
+    <img src='images/GA_AQC_mussel24.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Survey of freshwater mussels using high-resolution acoustic imaging sonar and deep learning-based object detection in Lake Izunuma, Japan](https://doi.org/10.1002/aqc.4040)
+
+  **<u>Zhao, F.</u>***, Mizuno, K., Tabeta, S., … , & Shimada, T.
+
+  <em>Aquatic Conservation: Marine and Freshwater Ecosystems，2023.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_AQC_mussel24.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://github.com/EISLAB2021/2025musselProject.git" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
 
 
 <br>
