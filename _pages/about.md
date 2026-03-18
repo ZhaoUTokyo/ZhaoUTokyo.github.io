@@ -318,6 +318,34 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   </div>
 </div>
 
+<!-- 317 added six -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">MER 2025A</div>
+    </div>
+    <img src='images/GA_MER_Hemicrab25.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Enhanced hermit crabs detection using super-resolution reconstruction and improved YOLOv8 on UAV-captured imagery](https://doi.org/10.1016/j.marenvres.2025.107313)
+
+  **<u>Zhao, F.</u>***, Chen, Y., Xi, D., … , & Mizuno, K.
+
+  <em>Marine Environmental Research，2025.</em> 
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://zhaoutokyo.github.io/CV/paper_MER_Hemicrab25.pdf" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
+
+
 
 
 <br>
