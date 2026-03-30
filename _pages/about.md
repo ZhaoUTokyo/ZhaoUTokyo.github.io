@@ -497,9 +497,29 @@ SPRING GX Fellowship (180,000 JPY per month)           ~ Mar. 2025
 SPRING GX Research funding grants (420,000 JPY annual)  ~ Mar. 2025  
 
 ***Awards:***  
+Mar. 2025  
+[*Excellent Poster Presentation Award*](https://ieeeoes.org/wp-content/uploads/2025/07/UT2025_CfP_V4.pdf) IEEE Oceanic Engineering Society（UT25）  
 
+Jun. 2018  
+*Excellent Graduation Thesis Award for Undergraduates*  
+
+Jul. 2017  
+*Excellent Graduation Student Award (Top 1 student in the Major)*  
+Awarded by [*Government of Shandong Province of China*]()
+
+Nov. 2016  
+*National Scholarship* (国家奨学金)  
+Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199202.html)  
+
+Nov. 2015  
+*National Scholarship* (国家奨学金)  
+Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199202.html)  
 
 <br>
+
+
+# 🛠 Academic Services  
+
 
 
 <!-- Content Section -->
