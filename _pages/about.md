@@ -495,7 +495,7 @@ Face emotions recognition ***Project co-leader***
 SPRING GX Fellowship (180,000 JPY per month)           ~ Mar. 2025  
 
 SPRING GX Research funding grants (420,000 JPY annual)  ~ Mar. 2025  
-
+<br>
 ***Awards:***  
 Mar. 2025  
 [*Excellent Poster Presentation Award*](https://ieeeoes.org/wp-content/uploads/2025/07/UT2025_CfP_V4.pdf) IEEE Oceanic Engineering Society（UT25）  
