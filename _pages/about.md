@@ -475,9 +475,33 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
   </div>
 </div>
 
+<br>
+
+
+# 🎖 Fundings and Awards
+***Funding:***  
+Aug. 2024  
+SPRING GX Self-directed and Integrated Project Research (1,000,000 JPY)  
+Marine Beach litter monitoring and field survey in Kao Tao, Thailand, ***Project leader***  
+
+Nov. 2024  
+SPRING GX Self-directed and Integrated Project Research (750,000 JPY)  
+Smart agricultural monitoring and field survey in Yuxi, China, ***Project leader***  
+
+Nov. 2024  
+SPRING GX Self-directed and Integrated Project Research (1,000,000 JPY)  
+Face emotions recognition ***Project co-leader***  
+
+SPRING GX Fellowship (180,000 JPY per month)           ~ Mar. 2025  
+
+SPRING GX Research funding grants (420,000 JPY annual)  ~ Mar. 2025  
+
+***Awards:***  
 
 
 <br>
+
+
 <!-- Content Section -->
 <p style="text-align: center;">
   <div id="clustrmaps-widget" style="max-width: 20%; margin: 0 auto;">
