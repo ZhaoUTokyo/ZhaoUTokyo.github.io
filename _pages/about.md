@@ -520,13 +520,13 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 
 # 🛠 Academic Services  
 **Journal Reviewer:**  
-***Remote sensing (RS) related:***  
+***a. Remote sensing (RS) related:***  
 &nbsp;&nbsp;&nbsp;&nbsp; ISPRS Journal of Photogrammetry and Remote Sensing  
 &nbsp;&nbsp;&nbsp;&nbsp; Science of Remote Sensing  
 &nbsp;&nbsp;&nbsp;&nbsp; Remote Sensing Applications: Society and Environment  
 &nbsp;&nbsp;&nbsp;&nbsp; Remote Sensing  
 &nbsp;&nbsp;&nbsp;&nbsp; Drones  
-*a. Marine & Ecological related:*  
+***b. Marine & Ecological related:***  
 &nbsp;&nbsp;&nbsp;&nbsp; Marine Pollution Bulletin  
 &nbsp;&nbsp;&nbsp;&nbsp; Applied Ocean Research  
 &nbsp;&nbsp;&nbsp;&nbsp; npj Ocean Sustainability  
@@ -537,7 +537,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 &nbsp;&nbsp;&nbsp;&nbsp; Aquaculture International  
 &nbsp;&nbsp;&nbsp;&nbsp; Aquacultural Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp; Scientific Reports  
-*b. Agricultural-related:*  
+***c. Agricultural-related:***  
 &nbsp;&nbsp;&nbsp;&nbsp; Artificial Intelligence in Agriculture  
 &nbsp;&nbsp;&nbsp;&nbsp; Information Processing in Agriculture  
 &nbsp;&nbsp;&nbsp;&nbsp; Computers and Electronics in Agriculture  
@@ -546,7 +546,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 &nbsp;&nbsp;&nbsp;&nbsp; Agronomy  
 &nbsp;&nbsp;&nbsp;&nbsp; Animals  
 &nbsp;&nbsp;&nbsp;&nbsp; Biology  
-*c. Engineering-related:*  
+***d. Engineering-related:***  
 &nbsp;&nbsp;&nbsp;&nbsp; Renewable & Sustainable Energy Reviews  
 &nbsp;&nbsp;&nbsp;&nbsp; Automation in Construction  
 &nbsp;&nbsp;&nbsp;&nbsp; Engineering Applications of Artificial Intelligence  
@@ -554,7 +554,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 &nbsp;&nbsp;&nbsp;&nbsp; Case Studies in Construction Materials  
 &nbsp;&nbsp;&nbsp;&nbsp; Measurement  
 &nbsp;&nbsp;&nbsp;&nbsp; International Journal of Disaster Risk Reduction  
-*d. Computer Science-related:*  
+***e. Computer Science-related:***  
 &nbsp;&nbsp;&nbsp;&nbsp; Information Processing and Management  
 &nbsp;&nbsp;&nbsp;&nbsp; Digital Signal Processing  
 &nbsp;&nbsp;&nbsp;&nbsp; Signal, Image and Video Processing  
