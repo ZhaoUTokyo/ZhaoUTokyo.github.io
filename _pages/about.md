@@ -527,39 +527,39 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 &nbsp;&nbsp;&nbsp;&nbsp; Remote Sensing  
 &nbsp;&nbsp;&nbsp;&nbsp; Drones  
 *a. Marine & Ecological related:*  
-Marine Pollution Bulletin  
-Applied Ocean Research  
-npj Ocean Sustainability  
-Ecological Informatics  
-Estuarine, Coastal and Shelf Science  
-Regional Studies in marine science  
-Deep-sea Research  
-Aquaculture International  
-Aquacultural Engineering  
-Scientific Reports  
+&nbsp;&nbsp;&nbsp;&nbsp; Marine Pollution Bulletin  
+&nbsp;&nbsp;&nbsp;&nbsp; Applied Ocean Research  
+&nbsp;&nbsp;&nbsp;&nbsp; npj Ocean Sustainability  
+&nbsp;&nbsp;&nbsp;&nbsp; Ecological Informatics  
+&nbsp;&nbsp;&nbsp;&nbsp; Estuarine, Coastal and Shelf Science  
+&nbsp;&nbsp;&nbsp;&nbsp; Regional Studies in marine science  
+&nbsp;&nbsp;&nbsp;&nbsp; Deep-sea Research  
+&nbsp;&nbsp;&nbsp;&nbsp; Aquaculture International  
+&nbsp;&nbsp;&nbsp;&nbsp; Aquacultural Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp; Scientific Reports  
 *b. Agricultural-related:*  
-Artificial Intelligence in Agriculture  
-Information Processing in Agriculture  
-Computers and Electronics in Agriculture  
-Smart Agricultural Technology  
-Frontiers in Plant Science  
-Agronomy  
-Animals  
-Biology  
+&nbsp;&nbsp;&nbsp;&nbsp; Artificial Intelligence in Agriculture  
+&nbsp;&nbsp;&nbsp;&nbsp; Information Processing in Agriculture  
+&nbsp;&nbsp;&nbsp;&nbsp; Computers and Electronics in Agriculture  
+&nbsp;&nbsp;&nbsp;&nbsp; Smart Agricultural Technology  
+&nbsp;&nbsp;&nbsp;&nbsp; Frontiers in Plant Science  
+&nbsp;&nbsp;&nbsp;&nbsp; Agronomy  
+&nbsp;&nbsp;&nbsp;&nbsp; Animals  
+&nbsp;&nbsp;&nbsp;&nbsp; Biology  
 *c. Engineering-related:*  
-Renewable & Sustainable Energy Reviews  
-Automation in Construction  
-Engineering Applications of Artificial Intelligence  
-Results in Engineering  
-Case Studies in Construction Materials  
-Measurement  
-International Journal of Disaster Risk Reduction  
+&nbsp;&nbsp;&nbsp;&nbsp; Renewable & Sustainable Energy Reviews  
+&nbsp;&nbsp;&nbsp;&nbsp; Automation in Construction  
+&nbsp;&nbsp;&nbsp;&nbsp; Engineering Applications of Artificial Intelligence  
+&nbsp;&nbsp;&nbsp;&nbsp; Results in Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp; Case Studies in Construction Materials  
+&nbsp;&nbsp;&nbsp;&nbsp; Measurement  
+&nbsp;&nbsp;&nbsp;&nbsp; International Journal of Disaster Risk Reduction  
 *d. Computer Science-related:*  
-Information Processing and Management  
-Digital Signal Processing  
-Signal, Image and Video Processing  
-Journal of Big Data  
-CMC-Computers, Materials & Continua  
+&nbsp;&nbsp;&nbsp;&nbsp; Information Processing and Management  
+&nbsp;&nbsp;&nbsp;&nbsp; Digital Signal Processing  
+&nbsp;&nbsp;&nbsp;&nbsp; Signal, Image and Video Processing  
+&nbsp;&nbsp;&nbsp;&nbsp; Journal of Big Data  
+&nbsp;&nbsp;&nbsp;&nbsp; CMC-Computers, Materials & Continua  
 <br>
 and others.  
 <br>
