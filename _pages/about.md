@@ -519,7 +519,54 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 
 
 # 🛠 Academic Services  
-
+**Journal Reviewer:**  
+***Remote sensing (RS) related:***  
+   ISPRS Journal of Photogrammetry and Remote Sensing  
+   Science of Remote Sensing  
+   Remote Sensing Applications: Society and Environment  
+   Remote Sensing  
+   Drones  
+*a. Marine & Ecological related:*  
+Marine Pollution Bulletin  
+Applied Ocean Research  
+npj Ocean Sustainability  
+Ecological Informatics  
+Estuarine, Coastal and Shelf Science  
+Regional Studies in marine science  
+Deep-sea Research  
+Aquaculture International  
+Aquacultural Engineering  
+Scientific Reports  
+*b. Agricultural-related:*  
+Artificial Intelligence in Agriculture  
+Information Processing in Agriculture  
+Computers and Electronics in Agriculture  
+Smart Agricultural Technology  
+Frontiers in Plant Science  
+Agronomy  
+Animals  
+Biology  
+*c. Engineering-related:*  
+Renewable & Sustainable Energy Reviews  
+Automation in Construction  
+Engineering Applications of Artificial Intelligence  
+Results in Engineering  
+Case Studies in Construction Materials  
+Measurement  
+International Journal of Disaster Risk Reduction  
+*d. Computer Science-related:*  
+Information Processing and Management  
+Digital Signal Processing  
+Signal, Image and Video Processing  
+Journal of Big Data  
+CMC-Computers, Materials & Continua  
+<br>
+and others.
+<br>
+**Editorial Roles:**
+Lead Guest Editor,  [*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
+Lead Guest Editor,  [*Water*](https://www.mdpi.com/journal/water)
+Youth Editorial Board Member, [*Energy & Environment Nexus*](https://www.maxapress.com/een)  
 
 
 <!-- Content Section -->
