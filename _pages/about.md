@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📌 Short Bio (<a href="CV/FanZHAO_CV.pdf">**CV**)
-**Dr. Fan Zhao** is an Research Fellow at the Department of Urban Informatics, Shenzhen University, where he collaborates with the research group of Prof. Qingquan Li, an Academician of the Chinese Academy of Engineering. He received his M.E.S. and Ph.D. from the Environmental Informatics and Sensing Laboratory at the University of Tokyo in March 2022 and March 2025, respectively.  
+**Dr. Fan Zhao** is an Research Fellow at the Department of Urban Informatics, Shenzhen University, where he collaborates with the research group of Prof. Qingquan Li, an Academician of the Chinese Academy of Engineering. He received his M.E.S. and Ph.D. from the Environmental Informatics and Sensing Laboratory at **[University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)** in March 2022 and March 2025, respectively. 
 
 His research focuses on addressing environmental challenges through advanced sensing technologies and information science. By integrating multi-source data acquisition with artificial intelligence and computational methods, his work aims to enhance environmental monitoring and analysis.  
 
