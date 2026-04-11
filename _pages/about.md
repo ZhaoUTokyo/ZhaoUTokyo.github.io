@@ -27,7 +27,8 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 
 # 🔥 News
 - *2026.03.29*:  🎉A **first-author** paper entitled 
-"CoralSMIA: Physically-Grounded Scattering Modeling and Illumination Adaptation for Generalized Underwater Coral Segmentation", received the revision decision from ***IEEE Transactions on Geoscience and Remote Sensing***. 
+"CoralSMIA: Physically-Grounded Scattering Modeling and Illumination Adaptation for Generalized Underwater Coral Segmentation", received the revision decision from ***IEEE Transactions on Geoscience and Remote Sensing***.
+- *2026.03.12*:  🎉 A co-authored paper, for which I served as corresponding and last author, entitled  "Maturity-Aware Fruit Detection in Real Orchard Scenes Using Super-Resolution Enhanced YOLOv13n",  is currently under review at ***Advanced Engineering Informatics***. 
 - *2026.02.10*:  🎉🎉 One **first-author** paper on UAV-based monitoring of benthic organisms in the coastal lagoon of Lake Hamana, Japan, has been accepted by ***Remote Sensing in Ecology and Conservation***. (<a href="http://doi.org/10.1002/rse2.70066" target="_blank">link</a>)  
 - *2026.02.09*: &nbsp;🎉🎉 One **first-author** paper on a self-developed amphibious UAV and its practical applications in inland rivers, lakes, and marine environments has been accepted by ***Marine Environmental Research***. (<a href="https://doi.org/10.1016/j.marenvres.2026.107911" target="_blank">link</a>)  
 - *2026.02.04*: &nbsp;🎉🎉 Our paper on efficient and robust floating plastic debris monitoring has been accepted by ***Expert Systems with Applications*** (served as corresponding author & last author). (<a href="https://doi.org/10.1016/j.eswa.2026.131552" target="_blank">link</a>)  
