@@ -23,6 +23,8 @@ redirect_from:
 His research focuses on addressing environmental challenges through advanced sensing technologies and information science. By integrating multi-source data acquisition with artificial intelligence and computational methods, his work aims to enhance environmental monitoring and analysis.  
 
 He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned systems, and satellite remote sensing imagery to interpret and analyze environmental systems across marine, underwater, agricultural, and urban environments. His research seeks to improve monitoring efficiency, reduce operational costs, increase analytical accuracy, and reveal previously unobservable environmental information through data-driven approaches.  
+
+If you are seeking any form of academic cooperation, please feel free to email me at zhaofan25ut@163.com  or fzhao25utokyo@gmail.com. We are hiring interns!
 <br>
 
 # 🔥 News
