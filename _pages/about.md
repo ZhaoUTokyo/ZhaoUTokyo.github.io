@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📌 Short Bio (<a href="CV/FanZHAO_CV.pdf">**CV**)
-**Dr. Fan Zhao** is a Postdoctoral Researcher at the Department of Urban Informatics, Shenzhen University, where he collaborates with the research group of Prof. Qingquan Li, an Academician of the Chinese Academy of Engineering. He received his Ph.D. and M.E.S. from the Environmental Informatics and Sensing Laboratory at the University of Tokyo in March 2025 and March 2022, respectively.  
+**Dr. Fan Zhao** is an Research Fellow at the Department of Urban Informatics, Shenzhen University, where he collaborates with the research group of Prof. Qingquan Li, an Academician of the Chinese Academy of Engineering. He received his M.E.S. and Ph.D. from the Environmental Informatics and Sensing Laboratory at the University of Tokyo in March 2022 and March 2025, respectively.  
 
 His research focuses on addressing environmental challenges through advanced sensing technologies and information science. By integrating multi-source data acquisition with artificial intelligence and computational methods, his work aims to enhance environmental monitoring and analysis.  
 
@@ -26,6 +26,8 @@ He utilizes commercial unmanned aerial vehicles, self-developed surface unmanned
 <br>
 
 # 🔥 News
+- *2026.03.29*:  🎉A **first-author** paper entitled 
+"CoralSMIA: Physically-Grounded Scattering Modeling and Illumination Adaptation for Generalized Underwater Coral Segmentation", received the revision decision from ***IEEE Transactions on Geoscience and Remote Sensing***. 
 - *2026.02.10*:  🎉🎉 One **first-author** paper on UAV-based monitoring of benthic organisms in the coastal lagoon of Lake Hamana, Japan, has been accepted by ***Remote Sensing in Ecology and Conservation***. (<a href="http://doi.org/10.1002/rse2.70066" target="_blank">link</a>)  
 - *2026.02.09*: &nbsp;🎉🎉 One **first-author** paper on a self-developed amphibious UAV and its practical applications in inland rivers, lakes, and marine environments has been accepted by ***Marine Environmental Research***. (<a href="https://doi.org/10.1016/j.marenvres.2026.107911" target="_blank">link</a>)  
 - *2026.02.04*: &nbsp;🎉🎉 Our paper on efficient and robust floating plastic debris monitoring has been accepted by ***Expert Systems with Applications*** (served as corresponding author & last author). (<a href="https://doi.org/10.1016/j.eswa.2026.131552" target="_blank">link</a>)  
@@ -554,15 +556,22 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 &nbsp;&nbsp;&nbsp;&nbsp; Case Studies in Construction Materials  
 &nbsp;&nbsp;&nbsp;&nbsp; Measurement  
 &nbsp;&nbsp;&nbsp;&nbsp; International Journal of Disaster Risk Reduction  
-***e. Computer Science-related:***  
+&nbsp;&nbsp;&nbsp;&nbsp; Sensing and Imaging 
+<br>
+***e. Computer Science-related:***
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Expert Systems with Applications  
 &nbsp;&nbsp;&nbsp;&nbsp; Information Processing and Management  
 &nbsp;&nbsp;&nbsp;&nbsp; Digital Signal Processing  
 &nbsp;&nbsp;&nbsp;&nbsp; Signal, Image and Video Processing  
 &nbsp;&nbsp;&nbsp;&nbsp; Journal of Big Data  
-&nbsp;&nbsp;&nbsp;&nbsp; CMC-Computers, Materials & Continua  
+&nbsp;&nbsp;&nbsp;&nbsp; Journal of Real-Time Image Processing  
+&nbsp;&nbsp;&nbsp;&nbsp; Biomedical Signal Processing and Control  
+&nbsp;&nbsp;&nbsp;&nbsp; CMC – Computers, Materials & Continua  
+
+and others.
 <br>
-and others.  
-<br>
+
 **Editorial Roles:**  
 Lead Guest Editor,  [*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)  
 Lead Guest Editor,  [*Water*](https://www.mdpi.com/journal/water)  
