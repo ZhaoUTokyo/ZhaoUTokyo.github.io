@@ -545,7 +545,8 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 ***c. Agricultural-related:***  
 &nbsp;&nbsp;&nbsp;&nbsp; Artificial Intelligence in Agriculture  
 &nbsp;&nbsp;&nbsp;&nbsp; Information Processing in Agriculture  
-&nbsp;&nbsp;&nbsp;&nbsp; Computers and Electronics in Agriculture  
+&nbsp;&nbsp;&nbsp;&nbsp; Computers and Electronics in Agriculture 
+&nbsp;&nbsp;&nbsp;&nbsp; Precision Agriculture 
 &nbsp;&nbsp;&nbsp;&nbsp; Smart Agricultural Technology  
 &nbsp;&nbsp;&nbsp;&nbsp; Frontiers in Plant Science  
 &nbsp;&nbsp;&nbsp;&nbsp; Agronomy  
@@ -557,7 +558,8 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 &nbsp;&nbsp;&nbsp;&nbsp; Engineering Applications of Artificial Intelligence  
 &nbsp;&nbsp;&nbsp;&nbsp; Results in Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp; Case Studies in Construction Materials  
-&nbsp;&nbsp;&nbsp;&nbsp; Measurement  
+&nbsp;&nbsp;&nbsp;&nbsp; Measurement 
+&nbsp;&nbsp;&nbsp;&nbsp; npj Heritage Science
 &nbsp;&nbsp;&nbsp;&nbsp; International Journal of Disaster Risk Reduction  
 &nbsp;&nbsp;&nbsp;&nbsp; Sensing and Imaging 
 <br>
