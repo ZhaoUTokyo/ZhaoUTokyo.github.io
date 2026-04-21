@@ -542,27 +542,29 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 &nbsp;&nbsp;&nbsp;&nbsp; Aquaculture International  
 &nbsp;&nbsp;&nbsp;&nbsp; Aquacultural Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp; Scientific Reports  
-***c. Agricultural-related:***  
-&nbsp;&nbsp;&nbsp;&nbsp; Artificial Intelligence in Agriculture  
-&nbsp;&nbsp;&nbsp;&nbsp; Information Processing in Agriculture  
-&nbsp;&nbsp;&nbsp;&nbsp; Computers and Electronics in Agriculture 
-&nbsp;&nbsp;&nbsp;&nbsp; Precision Agriculture 
-&nbsp;&nbsp;&nbsp;&nbsp; Smart Agricultural Technology  
-&nbsp;&nbsp;&nbsp;&nbsp; Frontiers in Plant Science  
-&nbsp;&nbsp;&nbsp;&nbsp; Agronomy  
-&nbsp;&nbsp;&nbsp;&nbsp; Animals  
-&nbsp;&nbsp;&nbsp;&nbsp; Biology  
-***d. Engineering-related:***  
-&nbsp;&nbsp;&nbsp;&nbsp; Renewable & Sustainable Energy Reviews  
-&nbsp;&nbsp;&nbsp;&nbsp; Automation in Construction  
-&nbsp;&nbsp;&nbsp;&nbsp; Engineering Applications of Artificial Intelligence  
-&nbsp;&nbsp;&nbsp;&nbsp; Results in Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp; Case Studies in Construction Materials  
-&nbsp;&nbsp;&nbsp;&nbsp; Measurement 
-&nbsp;&nbsp;&nbsp;&nbsp; npj Heritage Science
-&nbsp;&nbsp;&nbsp;&nbsp; International Journal of Disaster Risk Reduction  
-&nbsp;&nbsp;&nbsp;&nbsp; Sensing and Imaging 
-<br>
+<div>
+  <div style="margin:0;"><strong><em>c. Agricultural-related:</em></strong></div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence in Agriculture</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Information Processing in Agriculture</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Computers and Electronics in Agriculture</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Precision Agriculture</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Smart Agricultural Technology</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Frontiers in Plant Science</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Agronomy</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Animals</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Biology</div>
+
+  <div style="margin:0;"><strong><em>d. Engineering-related:</em></strong></div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Renewable &amp; Sustainable Energy Reviews</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Automation in Construction</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Engineering Applications of Artificial Intelligence</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Results in Engineering</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Case Studies in Construction Materials</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Measurement</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;npj Heritage Science</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;International Journal of Disaster Risk Reduction</div>
+  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Sensing and Imaging</div>
+</div>
 ***e. Computer Science-related:***
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Expert Systems with Applications  
