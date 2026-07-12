@@ -523,62 +523,68 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 <br>
 
 
-# 🛠 Academic Services  
-**Journal Reviewer:**  
-***a. Remote sensing (RS) related:***  
-&nbsp;&nbsp;&nbsp;&nbsp; ISPRS Journal of Photogrammetry and Remote Sensing  
-&nbsp;&nbsp;&nbsp;&nbsp; Science of Remote Sensing  
-&nbsp;&nbsp;&nbsp;&nbsp; Remote Sensing Applications: Society and Environment  
-&nbsp;&nbsp;&nbsp;&nbsp; Remote Sensing  
-&nbsp;&nbsp;&nbsp;&nbsp; Drones  
-***b. Marine & Ecological related:***  
-&nbsp;&nbsp;&nbsp;&nbsp; Journal of Hydrology
-&nbsp;&nbsp;&nbsp;&nbsp; Ecological Informatics 
-&nbsp;&nbsp;&nbsp;&nbsp; npj Ocean Sustainability  
-&nbsp;&nbsp;&nbsp;&nbsp; Marine Pollution Bulletin  
-&nbsp;&nbsp;&nbsp;&nbsp; Applied Ocean Research
-&nbsp;&nbsp;&nbsp;&nbsp; Estuarine, Coastal and Shelf Science  
-&nbsp;&nbsp;&nbsp;&nbsp; Regional Studies in marine science  
-&nbsp;&nbsp;&nbsp;&nbsp; Deep-sea Research  
-&nbsp;&nbsp;&nbsp;&nbsp; Aquaculture International  
-&nbsp;&nbsp;&nbsp;&nbsp; Aquacultural Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp; Scientific Reports  
+# 🛠 Academic Services
+
+**Journal Reviewer:**
+
 <div>
-  <div style="margin:0;"><strong><em>c. Agricultural-related:</em></strong></div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence in Agriculture</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Information Processing in Agriculture</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Computers and Electronics in Agriculture</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Precision Agriculture</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Smart Agricultural Technology</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Frontiers in Plant Science</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Agronomy</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Animals</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Biology</div>
+  <div style="margin:0;"><strong><em>a. Remote Sensing-related:</em></strong></div>
+  <div style="margin:0 0 0 2em;">ISPRS Journal of Photogrammetry and Remote Sensing</div>
+  <div style="margin:0 0 0 2em;">Science of Remote Sensing</div>
+  <div style="margin:0 0 0 2em;">Remote Sensing Applications: Society and Environment</div>
+  <div style="margin:0 0 0 2em;">Remote Sensing</div>
+  <div style="margin:0 0 0 2em;">Drones</div>
 
-  <div style="margin:0;"><strong><em>d. Engineering-related:</em></strong></div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Renewable &amp; Sustainable Energy Reviews</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Automation in Construction</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Engineering Applications of Artificial Intelligence</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Results in Engineering</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Case Studies in Construction Materials</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Measurement</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;npj Heritage Science</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;International Journal of Disaster Risk Reduction</div>
-  <div style="margin:0;">&nbsp;&nbsp;&nbsp;&nbsp;Sensing and Imaging</div>
+  <div style="margin:0.5em 0 0 0;"><strong><em>b. Marine &amp; Ecology-related:</em></strong></div>
+  <div style="margin:0 0 0 2em;">Journal of Hydrology</div>
+  <div style="margin:0 0 0 2em;">Ecological Informatics</div>
+  <div style="margin:0 0 0 2em;">npj Ocean Sustainability</div>
+  <div style="margin:0 0 0 2em;">Marine Pollution Bulletin</div>
+  <div style="margin:0 0 0 2em;">Applied Ocean Research</div>
+  <div style="margin:0 0 0 2em;">Estuarine, Coastal and Shelf Science</div>
+  <div style="margin:0 0 0 2em;">Regional Studies in Marine Science</div>
+  <div style="margin:0 0 0 2em;">Deep-Sea Research</div>
+  <div style="margin:0 0 0 2em;">Aquaculture International</div>
+  <div style="margin:0 0 0 2em;">Aquacultural Engineering</div>
+  <div style="margin:0 0 0 2em;">Scientific Reports</div>
+
+  <div style="margin:0.5em 0 0 0;"><strong><em>c. Agriculture-related:</em></strong></div>
+  <div style="margin:0 0 0 2em;">Artificial Intelligence in Agriculture</div>
+  <div style="margin:0 0 0 2em;">Information Processing in Agriculture</div>
+  <div style="margin:0 0 0 2em;">Computers and Electronics in Agriculture</div>
+  <div style="margin:0 0 0 2em;">Precision Agriculture</div>
+  <div style="margin:0 0 0 2em;">Smart Agricultural Technology</div>
+  <div style="margin:0 0 0 2em;">Frontiers in Plant Science</div>
+  <div style="margin:0 0 0 2em;">Agronomy</div>
+  <div style="margin:0 0 0 2em;">Animals</div>
+  <div style="margin:0 0 0 2em;">Biology</div>
+
+  <div style="margin:0.5em 0 0 0;"><strong><em>d. Engineering-related:</em></strong></div>
+  <div style="margin:0 0 0 2em;">Renewable &amp; Sustainable Energy Reviews</div>
+  <div style="margin:0 0 0 2em;">Automation in Construction</div>
+  <div style="margin:0 0 0 2em;">Engineering Applications of Artificial Intelligence</div>
+  <div style="margin:0 0 0 2em;">Results in Engineering</div>
+  <div style="margin:0 0 0 2em;">Case Studies in Construction Materials</div>
+  <div style="margin:0 0 0 2em;">Measurement</div>
+  <div style="margin:0 0 0 2em;">npj Heritage Science</div>
+  <div style="margin:0 0 0 2em;">International Journal of Disaster Risk Reduction</div>
+  <div style="margin:0 0 0 2em;">Sensing and Imaging</div>
+
+  <div style="margin:0.5em 0 0 0;"><strong><em>e. Computer Science-related:</em></strong></div>
+  <div style="margin:0 0 0 2em;">Expert Systems with Applications</div>
+  <div style="margin:0 0 0 2em;">Information Processing &amp; Management</div>
+  <div style="margin:0 0 0 2em;">Digital Signal Processing</div>
+  <div style="margin:0 0 0 2em;">Signal, Image and Video Processing</div>
+  <div style="margin:0 0 0 2em;">Journal of Big Data</div>
+  <div style="margin:0 0 0 2em;">Journal of Real-Time Image Processing</div>
+  <div style="margin:0 0 0 2em;">Biomedical Signal Processing and Control</div>
+  <div style="margin:0 0 0 2em;">CMC – Computers, Materials &amp; Continua</div>
 </div>
-***e. Computer Science-related:***
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp; Expert Systems with Applications  
-&nbsp;&nbsp;&nbsp;&nbsp; Information Processing and Management  
-&nbsp;&nbsp;&nbsp;&nbsp; Digital Signal Processing  
-&nbsp;&nbsp;&nbsp;&nbsp; Signal, Image and Video Processing  
-&nbsp;&nbsp;&nbsp;&nbsp; Journal of Big Data  
-&nbsp;&nbsp;&nbsp;&nbsp; Journal of Real-Time Image Processing  
-&nbsp;&nbsp;&nbsp;&nbsp; Biomedical Signal Processing and Control  
-&nbsp;&nbsp;&nbsp;&nbsp; CMC – Computers, Materials & Continua  
 
-and others.
 <br>
+
+And others.
+
 
 **Editorial Roles:**  
 Lead Guest Editor,  [*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)  
