@@ -532,10 +532,11 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 &nbsp;&nbsp;&nbsp;&nbsp; Remote Sensing  
 &nbsp;&nbsp;&nbsp;&nbsp; Drones  
 ***b. Marine & Ecological related:***  
-&nbsp;&nbsp;&nbsp;&nbsp; Marine Pollution Bulletin  
-&nbsp;&nbsp;&nbsp;&nbsp; Applied Ocean Research  
+&nbsp;&nbsp;&nbsp;&nbsp; Journal of Hydrology
+&nbsp;&nbsp;&nbsp;&nbsp; Ecological Informatics 
 &nbsp;&nbsp;&nbsp;&nbsp; npj Ocean Sustainability  
-&nbsp;&nbsp;&nbsp;&nbsp; Ecological Informatics  
+&nbsp;&nbsp;&nbsp;&nbsp; Marine Pollution Bulletin  
+&nbsp;&nbsp;&nbsp;&nbsp; Applied Ocean Research
 &nbsp;&nbsp;&nbsp;&nbsp; Estuarine, Coastal and Shelf Science  
 &nbsp;&nbsp;&nbsp;&nbsp; Regional Studies in marine science  
 &nbsp;&nbsp;&nbsp;&nbsp; Deep-sea Research  
