@@ -28,8 +28,8 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <br>
 
 # 🔥 News
-- *2026.05.31*:  🎉A **first-author** paper entitled 
-"CoralSMIA: Physically-Grounded Scattering Modeling and Illumination Adaptation for Generalized Underwater Coral Segmentation", received the Minor revision decision from ***IEEE Transactions on Geoscience and Remote Sensing***.
+- *2026.07.11*:  🎉A **first-author** paper entitled 
+"CoralSMIA: Physically-Grounded Scattering Modeling and Illumination Adaptation for Generalized Underwater Coral Segmentation", has been accepted by ***IEEE Transactions on Geoscience and Remote Sensing***. DOI: 10.1109/TGRS.2026.3713313
 - *2026.05.07*:  🎉 A co-authored paper, for which I served as corresponding and last author, entitled  "Maturity-Aware Fruit Detection in Real Orchard Scenes Using Super-Resolution Enhanced YOLOv13n", received the Minor revision decision from ***Advanced Engineering Informatics***. 
 - *2026.02.10*:  🎉🎉 One **first-author** paper on UAV-based monitoring of benthic organisms in the coastal lagoon of Lake Hamana, Japan, has been accepted by ***Remote Sensing in Ecology and Conservation***. (<a href="http://doi.org/10.1002/rse2.70066" target="_blank">link</a>)  
 - *2026.02.09*: &nbsp;🎉🎉 One **first-author** paper on a self-developed amphibious UAV and its practical applications in inland rivers, lakes, and marine environments has been accepted by ***Marine Environmental Research***. (<a href="https://doi.org/10.1016/j.marenvres.2026.107911" target="_blank">link</a>)  
