@@ -533,7 +533,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0 0 0 2em;">Science of Remote Sensing</div>
   <div style="margin:0 0 0 2em;">Remote Sensing Applications: Society and Environment</div>
   <div style="margin:0 0 0 2em;">Remote Sensing</div>
-  <div style="margin:0 0 0 2em;">Drones</div>
+  <div style="margin:0 0 0 2em;">Aerospace Science and Technology</div>
 
   <div style="margin:0.5em 0 0 0;"><strong><em>b. Marine &amp; Ecology-related:</em></strong></div>
   <div style="margin:0 0 0 2em;">Journal of Hydrology</div>
@@ -543,6 +543,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0 0 0 2em;">Applied Ocean Research</div>
   <div style="margin:0 0 0 2em;">Estuarine, Coastal and Shelf Science</div>
   <div style="margin:0 0 0 2em;">Regional Studies in Marine Science</div>
+  <div style="margin:0 0 0 2em;">Journal of Marine Science and Engineering</div>
   <div style="margin:0 0 0 2em;">Deep-Sea Research</div>
   <div style="margin:0 0 0 2em;">Aquaculture International</div>
   <div style="margin:0 0 0 2em;">Aquacultural Engineering</div>
@@ -575,6 +576,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0 0 0 2em;">Information Processing &amp; Management</div>
   <div style="margin:0 0 0 2em;">Digital Signal Processing</div>
   <div style="margin:0 0 0 2em;">Signal, Image and Video Processing</div>
+  <div style="margin:0 0 0 2em;">Journal of King Saud University Computer and Information Sciences</div>
   <div style="margin:0 0 0 2em;">Journal of Big Data</div>
   <div style="margin:0 0 0 2em;">Journal of Real-Time Image Processing</div>
   <div style="margin:0 0 0 2em;">Biomedical Signal Processing and Control</div>
