@@ -534,6 +534,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0 0 0 2em;">Remote Sensing Applications: Society and Environment</div>
   <div style="margin:0 0 0 2em;">Remote Sensing</div>
   <div style="margin:0 0 0 2em;">Aerospace Science and Technology</div>
+  <div style="margin:0 0 0 2em;">The Egyptian Journal of Remote Sensing and Space Sciences</div>
 
   <div style="margin:0.5em 0 0 0;"><strong><em>b. Marine &amp; Ecology-related:</em></strong></div>
   <div style="margin:0 0 0 2em;">Journal of Hydrology</div>
