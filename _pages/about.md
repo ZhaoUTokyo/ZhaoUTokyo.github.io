@@ -29,7 +29,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🔥 News
 
-- *2026.08.01*:  🎉A co-authored paper, for which I served as corresponding and last author, entitled  "Precision Greenhouse Rose Phenotyping from UAV Imagery Using a
+- *2026.08.03*:  🎉A co-authored paper, for which I served as last author, entitled  "Precision Greenhouse Rose Phenotyping from UAV Imagery Using a
 Multi-Source Dataset and Lightweight BloomRoseNet", has been accepted by ***Remote Sensing***.  (<a href="https://ieeexplore.ieee.org/document/11609306" target="_blank">link</a>)  
 - *2026.07.11*:  🎉🎉A **first-author** paper entitled 
 "CoralSMIA: Physically Grounded Scattering Modeling and Illumination Adaptation for Generalized Underwater Coral Segmentation", has been accepted by ***IEEE Transactions on Geoscience and Remote Sensing***. (<a href="https://ieeexplore.ieee.org/document/11609306" target="_blank">link</a>)  
