@@ -29,6 +29,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🔥 News
 
+- *2026.08.08*:  🎉🎉🎉 A co-authored paper, for which I served as corresponding and last author, entitled  "Maturity-Aware Fruit Detection in Real Orchard Scenes Using Super-Resolution Enhanced YOLOv13n", has been accepted by ***Advanced Engineering Informatics***. （Impact factor=11.5）
 - *2026.08.02*:  🎉A co-authored paper, for which I served as last author, entitled  "Precision Greenhouse Rose Phenotyping from UAV Imagery Using a
 Multi-Source Dataset and Lightweight BloomRoseNet", has been accepted by ***Remote Sensing***.  (<a href="https://ieeexplore.ieee.org/document/11609306" target="_blank">link</a>)
 - *2026.07.13*: 🎉🎉🎉 Two papers for which I served as **corresponding author** have been recognized by ESI: 
@@ -36,7 +37,6 @@ Multi-Source Dataset and Lightweight BloomRoseNet", has been accepted by ***Remo
 "Rose-Mamba-YOLO: An Enhanced Framework for Efficient and Accurate Greenhouse Rose Monitoring" (***Frontiers in Plant Science***) as an **ESI Hot Paper**.
 - *2026.07.11*:  🎉🎉A **first-author** paper entitled 
 "CoralSMIA: Physically Grounded Scattering Modeling and Illumination Adaptation for Generalized Underwater Coral Segmentation", has been accepted by ***IEEE Transactions on Geoscience and Remote Sensing***. (<a href="https://ieeexplore.ieee.org/document/11609306" target="_blank">link</a>)  
-- *2026.05.07*:  🎉 A co-authored paper, for which I served as corresponding and last author, entitled  "Maturity-Aware Fruit Detection in Real Orchard Scenes Using Super-Resolution Enhanced YOLOv13n", received the Minor revision decision from ***Advanced Engineering Informatics***. 
 - *2026.02.10*:  🎉🎉 One **first-author** paper on UAV-based monitoring of benthic organisms in the coastal lagoon of Lake Hamana, Japan, has been accepted by ***Remote Sensing in Ecology and Conservation***. (<a href="http://doi.org/10.1002/rse2.70066" target="_blank">link</a>)  
 - *2026.02.09*: &nbsp;🎉🎉 One **first-author** paper on a self-developed amphibious UAV and its practical applications in inland rivers, lakes, and marine environments has been accepted by ***Marine Environmental Research***. (<a href="https://doi.org/10.1016/j.marenvres.2026.107911" target="_blank">link</a>)  
 - *2026.02.04*: &nbsp;🎉 Our paper on efficient and robust floating plastic debris monitoring has been accepted by ***Expert Systems with Applications*** (served as corresponding author & last author). (<a href="https://doi.org/10.1016/j.eswa.2026.131552" target="_blank">link</a>)  
