@@ -29,6 +29,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🔥 News
 
+- *2026.08.13*:  🎉 A co-authored paper, for which I served as corresponding and last author, entitled  "Occlusion-Robust Cattle Pose Estimation for Precision Livestock Monitoring Using Hierarchical Locality Refinement", has been accepted by ***Animals***. 
 - *2026.08.08*:  🎉🎉🎉 A co-authored paper, for which I served as corresponding and last author, entitled  "Maturity-Aware Fruit Detection in Real Orchard Scenes Using Super-Resolution Enhanced YOLOv13n", has been accepted by ***Advanced Engineering Informatics***. （Impact factor=11.5）
 - *2026.08.02*:  🎉A co-authored paper, for which I served as last author, entitled  "Precision Greenhouse Rose Phenotyping from UAV Imagery Using a
 Multi-Source Dataset and Lightweight BloomRoseNet", has been accepted by ***Remote Sensing***.  (<a href="https://ieeexplore.ieee.org/document/11609306" target="_blank">link</a>)
