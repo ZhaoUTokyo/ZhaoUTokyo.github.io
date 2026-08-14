@@ -571,6 +571,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0.5em 0 0 0;"><strong><em>d. Engineering-related:</em></strong></div>
   <div style="margin:0 0 0 2em;">Renewable &amp; Sustainable Energy Reviews</div>
   <div style="margin:0 0 0 2em;">Automation in Construction</div>
+  <div style="margin:0 0 0 2em;">Advanced Engineering Informatics</div>
   <div style="margin:0 0 0 2em;">Engineering Applications of Artificial Intelligence</div>
   <div style="margin:0 0 0 2em;">Results in Engineering</div>
   <div style="margin:0 0 0 2em;">Case Studies in Construction Materials</div>
@@ -581,6 +582,7 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
 
   <div style="margin:0.5em 0 0 0;"><strong><em>e. Computer Science-related:</em></strong></div>
   <div style="margin:0 0 0 2em;">Expert Systems with Applications</div>
+  <div style="margin:0 0 0 2em;">Advanced Engineering Informatics</div>
   <div style="margin:0 0 0 2em;">Information Processing &amp; Management</div>
   <div style="margin:0 0 0 2em;">Digital Signal Processing</div>
   <div style="margin:0 0 0 2em;">Signal, Image and Video Processing</div>
