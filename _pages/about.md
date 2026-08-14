@@ -578,7 +578,6 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0 0 0 2em;">Measurement</div>
   <div style="margin:0 0 0 2em;">npj Heritage Science</div>
   <div style="margin:0 0 0 2em;">International Journal of Disaster Risk Reduction</div>
-  <div style="margin:0 0 0 2em;">Sensing and Imaging</div>
 
   <div style="margin:0.5em 0 0 0;"><strong><em>e. Computer Science-related:</em></strong></div>
   <div style="margin:0 0 0 2em;">Expert Systems with Applications</div>
@@ -590,7 +589,6 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0 0 0 2em;">Journal of Big Data</div>
   <div style="margin:0 0 0 2em;">Journal of Real-Time Image Processing</div>
   <div style="margin:0 0 0 2em;">Biomedical Signal Processing and Control</div>
-  <div style="margin:0 0 0 2em;">CMC – Computers, Materials &amp; Continua</div>
 </div>
 
 <br>
