@@ -28,8 +28,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <br>
 
 # 🔥 News
-- *2026.09.04*:  A **first-author** paper entitled 
-" GLoDA-Net: A Lightweight Global–Local Directional Aggregation Network for Floating Waste Detection in Inland Waters Using Unmanned Surface Vehicles(USVs)", has been accepted by ***Marine Pollution Bulletin***. (<a href="https://ieeexplore.ieee.org/document/11609306" target="_blank">link</a>)  
+- *2026.09.04*:  🎉🎉 A **first-author** paper entitled GLoDA-Net: A Lightweight Global–Local Directional Aggregation Network for Floating Waste Detection in Inland Waters Using Unmanned Surface Vehicles(USVs)", has been accepted by ***Marine Pollution Bulletin***. (<a href="https://ieeexplore.ieee.org/document/11609306" target="_blank">link</a>)  
 - *2026.08.13*:  🎉 A co-authored paper, for which I served as corresponding and last author, entitled  "Occlusion-Robust Cattle Pose Estimation for Precision Livestock Monitoring Using Hierarchical Locality Refinement", has been accepted by ***Animals***.
 - *2026.08.08*:  🎉🎉🎉 A co-authored paper, for which I served as corresponding and last author, entitled  "Maturity-Aware Fruit Detection in Real Orchard Scenes Using Super-Resolution Enhanced YOLOv13n", has been accepted by ***Advanced Engineering Informatics***. （Impact factor=11.5）(<a href="https://doi.org/10.1016/j.aei.2026.105145" target="_blank">link</a>)  
 - *2026.08.02*:  🎉A co-authored paper, for which I served as last author, entitled  "Precision Greenhouse Rose Phenotyping from UAV Imagery Using a
