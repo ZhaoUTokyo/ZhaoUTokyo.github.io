@@ -583,10 +583,11 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0 0 0 2em;">Expert Systems with Applications</div>
   <div style="margin:0 0 0 2em;">Advanced Engineering Informatics</div>
   <div style="margin:0 0 0 2em;">Information Processing &amp; Management</div>
+  <div style="margin:0 0 0 2em;">Neurocomputing</div>
+  <div style="margin:0 0 0 2em;">Journal of Big Data</div>
+  <div style="margin:0 0 0 2em;">Journal of King Saud University Computer and Information Sciences</div>
   <div style="margin:0 0 0 2em;">Digital Signal Processing</div>
   <div style="margin:0 0 0 2em;">Signal, Image and Video Processing</div>
-  <div style="margin:0 0 0 2em;">Journal of King Saud University Computer and Information Sciences</div>
-  <div style="margin:0 0 0 2em;">Journal of Big Data</div>
   <div style="margin:0 0 0 2em;">Journal of Real-Time Image Processing</div>
   <div style="margin:0 0 0 2em;">Biomedical Signal Processing and Control</div>
 </div>
