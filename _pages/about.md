@@ -547,6 +547,8 @@ Awarded by [*Ministry of Education of China*](http://www.moe.gov.cn/jyb_xwfb/xw_
   <div style="margin:0.5em 0 0 0;"><strong><em>b. Marine &amp; Ecology-related:</em></strong></div>
   <div style="margin:0 0 0 2em;">Journal of Hydrology</div>
   <div style="margin:0 0 0 2em;">Ecological Informatics</div>
+  <div style="margin:0 0 0 2em;">Coral Reefs</div>
+  <div style="margin:0 0 0 2em;">Scientific Data</div>
   <div style="margin:0 0 0 2em;">npj Ocean Sustainability</div>
   <div style="margin:0 0 0 2em;">Marine Pollution Bulletin</div>
   <div style="margin:0 0 0 2em;">Applied Ocean Research</div>
